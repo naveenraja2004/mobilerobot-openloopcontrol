@@ -111,15 +111,9 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
-
-Insert image here
+![image](https://github.com/shashinprasad/mobilerobot-openloopcontrol/assets/129143499/5770cd8c-d077-4327-bcf2-b4bd65c4d362)
 
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
